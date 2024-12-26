@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+plotly
+
+
+
+## pip install -r requirements.txt
